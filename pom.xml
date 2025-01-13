@@ -9,6 +9,7 @@
   <name>SampleServices</name>
   <description>SampleServices</description>
   <modules>
+    <module>SampleServicesRegistryResources</module>
     <module>SampleServicesConfigs</module>
     <module>SampleServicesCompositeExporter</module>
   </modules>
