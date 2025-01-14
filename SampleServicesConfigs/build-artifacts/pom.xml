@@ -21,5 +21,7 @@
     <module>endpoints/GrandOakEP</module>
     <module>endpoints/ClemencyEP</module>
     <module>endpoints/Pinevalley</module>
+    <module>endpoints/ChannelingFeeEP</module>
+    <module>endpoints/SettlePaymentEP</module>
   </modules>
 </project>
